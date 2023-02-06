@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Just creating a simple project to test git!
 
 ```{r cars}
+print("cars")
 summary(cars)
 ```
 
